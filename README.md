@@ -1,0 +1,2 @@
+# assets
+MTMCA assets path
